@@ -101,14 +101,7 @@ namespace MultipleViewPartial.Properties.BusinessLogic
         }
     }
 
-    class SIHEJFEN
-        {
-        public static void m()
-        {
-            Console.WriteLine("dfns");
-        }
-
-    }
+   
 }
 
 
