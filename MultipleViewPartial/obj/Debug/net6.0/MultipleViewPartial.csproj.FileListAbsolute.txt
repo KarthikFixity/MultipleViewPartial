@@ -1,0 +1,8 @@
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.csproj.AssemblyReference.cache
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.AssemblyInfoInputs.cache
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.AssemblyInfo.cs
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.csproj.CoreCompileInputs.cache
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.RazorAssemblyInfo.cache
+C:\Users\chowd\source\repos\MultipleViewPartial\MultipleViewPartial\obj\Debug\net6.0\MultipleViewPartial.RazorAssemblyInfo.cs
